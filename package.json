@@ -1,0 +1,22 @@
+{
+  "name": "minniproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery-3.5.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rup2303/miniProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rup2303/miniProject/issues"
+  },
+  "homepage": "https://github.com/rup2303/miniProject#readme",
+  "dependencies": {
+    "node": "^15.0.1"
+  }
+}
